@@ -1,4 +1,4 @@
-## Data Anayst Career Path { Dataquest }
+## Data Anayst Career Path { Scholarship Course from Dataquest }
 My solutions to problems on Dataquest
 ## Python Programming Beginner
 * Python Basics: Files and Loops, Booleans and If Statements
